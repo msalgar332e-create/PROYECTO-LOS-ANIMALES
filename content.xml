@@ -1,0 +1,331 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ode SYSTEM "content.dtd">
+<ode xmlns="http://www.intef.es/xsd/ode" version="2.0">
+<userPreferences>
+  <userPreference>
+    <key>theme</key>
+    <value>base</value>
+  </userPreference>
+</userPreferences>
+<odeResources>
+  <odeResource>
+    <key>odeId</key>
+    <value>20260507193659RGGDFV</value>
+  </odeResource>
+  <odeResource>
+    <key>odeVersionId</key>
+    <value>20260507193659GIW7X3</value>
+  </odeResource>
+  <odeResource>
+    <key>exe_version</key>
+    <value>4.0.0</value>
+  </odeResource>
+</odeResources>
+<odeProperties>
+  <odeProperty>
+    <key>pp_title</key>
+    <value>Proyecto los animales</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_subtitle</key>
+    <value>Nuestra granja sonora</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_author</key>
+    <value>María Salvador García</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_description</key>
+    <value>El proyecto tiene como finalidad que el alumnado de 3 años se inicie en la creación de contenidos digitales a partir de su expresión oral. A lo largo del proceso, el alumnado manipula materiales físicos (lana, paja), identifica animales y participa en la grabación de sus propias onomatopeyas. El producto final es un Genially interactivo colectivo que integra conocimientos trabajados durante el proyecto. Mi papel como docente es de guía y facilitador, encargándome de la mediación técnica para asegurar que la tecnología sea un éxito y no una barrera, adaptando la herramienta al nivel madurativo del grupo de 3 años.</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_lang</key>
+    <value>es</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_license</key>
+    <value>creative commons: attribution - share alike 4.0</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_licenseUrl</key>
+    <value>https://creativecommons.org/licenses/by-sa/4.0/</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_theme</key>
+    <value>base</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_exelearning_version</key>
+    <value>v4.0.0</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_modified</key>
+    <value>1778174515714</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addExeLink</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addPagination</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addSearchBox</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addAccessibilityToolbar</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addMathJax</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>exportSource</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_globalFont</key>
+    <value>default</value>
+  </odeProperty>
+</odeProperties>
+<odeNavStructures>
+<odeNavStructure>
+  <odePageId>e1952e64-49df-41fe-89b6-13a1df0994b9</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>PROYECTO LOS ANIMALES</pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>PROYECTO LOS ANIMALES</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>PROYECTO LOS ANIMALES</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>e1952e64-49df-41fe-89b6-13a1df0994b9</odePageId>
+      <odeBlockId>block-1778172878523-b3j7kefl2</odeBlockId>
+      <blockName>Nuestra granja sonora</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>e1952e64-49df-41fe-89b6-13a1df0994b9</odePageId>
+          <odeBlockId>block-1778172878523-b3j7kefl2</odeBlockId>
+          <odeIdeviceId>idevice-1778172878520-9hff0d53d</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><strong>Presentación y descripción:</strong></p>
+<p><a href="https://docs.google.com/document/d/1OY3cIC5Y2L2cQfr7hmC2CEHadxhkgSxxSVQcPEwIjTM/edit?usp=sharing">https://docs.google.com/document/d/1OY3cIC5Y2L2cQfr7hmC2CEHadxhkgSxxSVQcPEwIjTM/edit?usp=sharing </a></p>
+<p><strong>Información dirigida al alumnado sobre protección de datos personales y garantías de derechos digitales:</strong></p>
+<p><a href="https://canva.link/a05o3szhr9uf52c">https://canva.link/a05o3szhr9uf52c</a></p>
+<p><strong>Descripción del producto final:</strong></p>
+<p><a href="https://educacionadistancia.juntadeandalucia.es/profesorado/mod/forum/discuss.php?d=1814145">https://educacionadistancia.juntadeandalucia.es/profesorado/mod/forum/discuss.php?d=1814145</a></p>
+<p><strong>Herramientas de curación de contenido:</strong></p>
+<p><a href="https://padlet.com/msalgar332e/recursos-para-el-producto-final-vvunwuxnfjb2vbzr">https://padlet.com/msalgar332e/recursos-para-el-producto-final-vvunwuxnfjb2vbzr</a></p>
+<p><a href="https://www.symbaloo.com/mix/herramientas-digitales-thlq">https://www.symbaloo.com/mix/herramientas-digitales-thlq</a></p>
+<p><strong>Línea temporal:</strong></p>
+<p><a href="https://canva.link/lrqtkhlmd438e9y">https://canva.link/lrqtkhlmd438e9y</a></p>
+<p><strong>Criterios de evaluación asociados:</strong></p>
+<p><a href="https://docs.google.com/document/d/1smJvyMvkZBEboUaUYagu5MZyAMOQLIqv4lP_D4HvLiE/edit?usp=sharing">https://docs.google.com/document/d/1smJvyMvkZBEboUaUYagu5MZyAMOQLIqv4lP_D4HvLiE/edit?usp=sharing</a></p>
+<p><strong>Instrumentos de evaluación:</strong></p>
+<p><a href="https://docs.google.com/document/d/1XzJvES8jX1GVqXx40mAmjLGhDaPdp-7lAWh_Op9AyTg/edit?usp=sharing">https://docs.google.com/document/d/1XzJvES8jX1GVqXx40mAmjLGhDaPdp-7lAWh_Op9AyTg/edit?usp=sharing</a></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778172878520-9hff0d53d","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><strong>Presentación y descripción:</strong></p>\n<p><a href=\"https://docs.google.com/document/d/1OY3cIC5Y2L2cQfr7hmC2CEHadxhkgSxxSVQcPEwIjTM/edit?usp=sharing\">https://docs.google.com/document/d/1OY3cIC5Y2L2cQfr7hmC2CEHadxhkgSxxSVQcPEwIjTM/edit?usp=sharing </a></p>\n<p><strong>Información dirigida al alumnado sobre protección de datos personales y garantías de derechos digitales:</strong></p>\n<p><a href=\"https://canva.link/a05o3szhr9uf52c\">https://canva.link/a05o3szhr9uf52c</a></p>\n<p><strong>Descripción del producto final:</strong></p>\n<p><a href=\"https://educacionadistancia.juntadeandalucia.es/profesorado/mod/forum/discuss.php?d=1814145\">https://educacionadistancia.juntadeandalucia.es/profesorado/mod/forum/discuss.php?d=1814145</a></p>\n<p><strong>Herramientas de curación de contenido:</strong></p>\n<p><a href=\"https://padlet.com/msalgar332e/recursos-para-el-producto-final-vvunwuxnfjb2vbzr\">https://padlet.com/msalgar332e/recursos-para-el-producto-final-vvunwuxnfjb2vbzr</a></p>\n<p><a href=\"https://www.symbaloo.com/mix/herramientas-digitales-thlq\">https://www.symbaloo.com/mix/herramientas-digitales-thlq</a></p>\n<p><strong>Línea temporal:</strong></p>\n<p><a href=\"https://canva.link/lrqtkhlmd438e9y\">https://canva.link/lrqtkhlmd438e9y</a></p>\n<p><strong>Criterios de evaluación asociados:</strong></p>\n<p><a href=\"https://docs.google.com/document/d/1smJvyMvkZBEboUaUYagu5MZyAMOQLIqv4lP_D4HvLiE/edit?usp=sharing\">https://docs.google.com/document/d/1smJvyMvkZBEboUaUYagu5MZyAMOQLIqv4lP_D4HvLiE/edit?usp=sharing</a></p>\n<p><strong>Instrumentos de evaluación:</strong></p>\n<p><a href=\"https://docs.google.com/document/d/1XzJvES8jX1GVqXx40mAmjLGhDaPdp-7lAWh_Op9AyTg/edit?usp=sharing\">https://docs.google.com/document/d/1XzJvES8jX1GVqXx40mAmjLGhDaPdp-7lAWh_Op9AyTg/edit?usp=sharing</a></p>\n<p></p>\n<p></p>\n<p></p>\n<p></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1778173916148-bhgyextg7</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>CRÉDITOS</pageName>
+  <odeNavStructureOrder>1</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>CRÉDITOS</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1778173916148-bhgyextg7</odePageId>
+      <odeBlockId>block-1778173918796-q7dfc3ng4</odeBlockId>
+      <blockName>Créditos</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1778173916148-bhgyextg7</odePageId>
+          <odeBlockId>block-1778173918796-q7dfc3ng4</odeBlockId>
+          <odeIdeviceId>idevice-1778173918794-j9n04ig4u</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <div class="exe-text-activity"><p>Créditos</p>
+<p>Autoría: Recurso elaborado por María Salvador García.</p>
+<p>Descripción: El proyecto tiene como finalidad que el alumnado de 3 años se inicie en la creación de contenidos digitales a partir de su expresión oral. A lo largo del proceso, el alumnado manipula materiales físicos (lana, paja), identifica animales y participa en la grabación de sus propias onomatopeyas. El producto final es un Genially interactivo colectivo que integra conocimientos trabajados durante el proyecto. Mi papel como docente es de guía y facilitador, encargándome de la mediación técnica para asegurar que la tecnología sea un éxito y no una barrera, adaptando la herramienta al nivel madurativo del grupo de 3 años.</p>
+<p>Herramienta utilizada: Material creado con eXeLearning.</p>
+<p>Licencia: Este recurso se comparte bajo licencia Creative Commons BY-NC-SA.</p>
+<p>Recursos utilizados: Genially, youtube y canva.</p>
+<p>Descarga del recurso editable:</p>
+<p><br /></p>
+<p></p><div class="iDevice_buttons feedback-button js-required"><input type="button" class="feedbacktooglebutton" value="Enlace al Genially" data-text-a="Enlace al Genially" data-text-b="Enlace al Genially"></div><div class="feedback js-feedback js-hidden" style="display: none;"><p>https://view.genially.com/69fcb8d140dade0dc1bd1cc</p></div></div>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778173918794-j9n04ig4u","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<div class=\"exe-text-activity\"><p>Créditos</p>\n<p>Autoría: Recurso elaborado por María Salvador García.</p>\n<p>Descripción: El proyecto tiene como finalidad que el alumnado de 3 años se inicie en la creación de contenidos digitales a partir de su expresión oral. A lo largo del proceso, el alumnado manipula materiales físicos (lana, paja), identifica animales y participa en la grabación de sus propias onomatopeyas. El producto final es un Genially interactivo colectivo que integra conocimientos trabajados durante el proyecto. Mi papel como docente es de guía y facilitador, encargándome de la mediación técnica para asegurar que la tecnología sea un éxito y no una barrera, adaptando la herramienta al nivel madurativo del grupo de 3 años.</p>\n<p>Herramienta utilizada: Material creado con eXeLearning.</p>\n<p>Licencia: Este recurso se comparte bajo licencia Creative Commons BY-NC-SA.</p>\n<p>Recursos utilizados: Genially, youtube y canva.</p>\n<p>Descarga del recurso editable:</p>\n<p><br /></p>\n<p></p><div class=\"iDevice_buttons feedback-button js-required\"><input type=\"button\" class=\"feedbacktooglebutton\" value=\"Enlace al Genially\" data-text-a=\"Enlace al Genially\" data-text-b=\"Enlace al Genially\"></div><div class=\"feedback js-feedback js-hidden\" style=\"display: none;\"><p>https://view.genially.com/69fcb8d140dade0dc1bd1cc</p></div></div>","textFeedbackInput":"Enlace al Genially","textFeedbackTextarea":"<p>https://view.genially.com/69fcb8d140dade0dc1bd1cc</p>"}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1778174766405-7lhwgwo4u</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>GUÍA DIDÁCTICA</pageName>
+  <odeNavStructureOrder>2</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>GUÍA DIDÁCTICA</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1778174766405-7lhwgwo4u</odePageId>
+      <odeBlockId>block-1778174800353-lhh5zl09r</odeBlockId>
+      <blockName>Guía didáctica</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1778174766405-7lhwgwo4u</odePageId>
+          <odeBlockId>block-1778174800353-lhh5zl09r</odeBlockId>
+          <odeIdeviceId>idevice-1778174800350-mx2cxqvnv</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <table border="1" style="width: 99.9627%;">
+<tbody>
+<tr>
+<td style="width: 49.9656%; text-align: center;"><strong>Actividad</strong></td>
+<td style="width: 49.9656%; text-align: center;"><strong>Criterio de evaluación</strong></td>
+</tr>
+<tr>
+<td style="width: 49.9656%; text-align: justify;">Asamblea inicial: ¿Qué sabemos de los animales?</td>
+<td style="width: 49.9656%; text-align: justify;">(Área III) 1.1.Participar de manera activa, espontánea y respetuosa con las diferencias individuales en situaciones comunicativas de progresiva complejidad, en función de su desarrollo individual.</td>
+</tr>
+<tr>
+<td style="width: 49.9656%; text-align: justify;">Visualización de vídeos sobre animales.</td>
+<td style="width: 49.9656%; text-align: justify;">(Área III) 1.4. Interactuar de manera virtual, familiarizándose con el uso de diferentes medios y herramientas digitales.</td>
+</tr>
+<tr>
+<td style="width: 49.9656%; text-align: justify;">Escucha y dramatización de un cuento.</td>
+<td style="width: 49.9656%; text-align: justify;">(Área I) 1.4. Participar en contextos de juego dirigido y espontáneo, ajustándose a sus posibilidades personales. </td>
+</tr>
+<tr>
+<td style="width: 49.9656%; text-align: justify;"> Canciones de animales.<br /></td>
+<td style="width: 49.9656%; text-align: justify;">(Área III) 3.5. Interpretar propuestas dramáticas y musicales, utilizando y explorando diferentes instrumentos, recursos o técnicas.</td>
+</tr>
+<tr>
+<td style="width: 49.9656%; text-align: justify;">Identificación de animales y sonidos.</td>
+<td style="width: 49.9656%; text-align: justify;">(Área II) 1.1. Establecer distintas relaciones entre los objetos a partir de sus cualidades o atributos, mostrando curiosidad e interés, explorando sus características, comportamiento físico y funcionamiento, constatando el efecto de sus acciones sobre los objetos y anticipándose a las consecuencias que de ellas se derivan. </td>
+</tr>
+<tr>
+<td style="width: 49.9656%; text-align: justify;">Clasificación de animales (granja/salvajes). <br /></td>
+<td style="width: 49.9656%; text-align: justify;">(Área II) 3.3. Identificar rasgos comunes y diferentes entre seres vivos e inertes. </td>
+</tr>
+</tbody>
+</table>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778174800350-mx2cxqvnv","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<table border=\"1\" style=\"width: 99.9627%;\">\n<tbody>\n<tr>\n<td style=\"width: 49.9656%; text-align: center;\"><strong>Actividad</strong></td>\n<td style=\"width: 49.9656%; text-align: center;\"><strong>Criterio de evaluación</strong></td>\n</tr>\n<tr>\n<td style=\"width: 49.9656%; text-align: justify;\">Asamblea inicial: ¿Qué sabemos de los animales?</td>\n<td style=\"width: 49.9656%; text-align: justify;\">(Área III) 1.1.Participar de manera activa, espontánea y respetuosa con las diferencias individuales en situaciones comunicativas de progresiva complejidad, en función de su desarrollo individual.</td>\n</tr>\n<tr>\n<td style=\"width: 49.9656%; text-align: justify;\">Visualización de vídeos sobre animales.</td>\n<td style=\"width: 49.9656%; text-align: justify;\">(Área III) 1.4. Interactuar de manera virtual, familiarizándose con el uso de diferentes medios y herramientas digitales.</td>\n</tr>\n<tr>\n<td style=\"width: 49.9656%; text-align: justify;\">Escucha y dramatización de un cuento.</td>\n<td style=\"width: 49.9656%; text-align: justify;\">(Área I) 1.4. Participar en contextos de juego dirigido y espontáneo, ajustándose a sus posibilidades personales. </td>\n</tr>\n<tr>\n<td style=\"width: 49.9656%; text-align: justify;\"> Canciones de animales.<br /></td>\n<td style=\"width: 49.9656%; text-align: justify;\">(Área III) 3.5. Interpretar propuestas dramáticas y musicales, utilizando y explorando diferentes instrumentos, recursos o técnicas.</td>\n</tr>\n<tr>\n<td style=\"width: 49.9656%; text-align: justify;\">Identificación de animales y sonidos.</td>\n<td style=\"width: 49.9656%; text-align: justify;\">(Área II) 1.1. Establecer distintas relaciones entre los objetos a partir de sus cualidades o atributos, mostrando curiosidad e interés, explorando sus características, comportamiento físico y funcionamiento, constatando el efecto de sus acciones sobre los objetos y anticipándose a las consecuencias que de ellas se derivan. </td>\n</tr>\n<tr>\n<td style=\"width: 49.9656%; text-align: justify;\">Clasificación de animales (granja/salvajes). <br /></td>\n<td style=\"width: 49.9656%; text-align: justify;\">(Área II) 3.3. Identificar rasgos comunes y diferentes entre seres vivos e inertes. </td>\n</tr>\n</tbody>\n</table>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+</odeNavStructures>
+</ode>
